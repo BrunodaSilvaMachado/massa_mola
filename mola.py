@@ -1,7 +1,9 @@
 #! usr/bin/python -env
 
-print "hello word"
+print "hello world"
 
 #atrito
+
 #qwertyu
 print "master"
+
